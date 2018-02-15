@@ -20,9 +20,9 @@
  */
 package org.verapdf.gf.model.impl.pd;
 
-import com.adobe.xmp.XMPException;
-import com.adobe.xmp.impl.VeraPDFMeta;
-import com.adobe.xmp.impl.VeraPDFXMPNode;
+import org.verapdf.com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.impl.VeraPDFMeta;
+import org.verapdf.com.adobe.xmp.impl.VeraPDFXMPNode;
 import org.verapdf.as.ASAtom;
 import org.verapdf.cos.COSStream;
 import org.verapdf.gf.model.impl.containers.StaticContainers;
